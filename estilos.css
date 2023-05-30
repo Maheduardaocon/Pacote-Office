@@ -1,0 +1,43 @@
+body {
+    background-color:#ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #f62626f3;
+  }
+
+  .cabecalho{
+    background-color: #f62626f3;
+    text-align: center;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #fffffff3;
+    
+
+}
+
+canvas{
+  background-color: #fffffff3;
+  text-align: center;
+  font-size: medium;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #4c26f6f3;
+}
+
+.ca{
+  background-color: #4c26f6f3;
+  text-align: center;
+  font-size: medium;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #fffffff3;
+  
+
+}
+  
+  img {
+    width: 33%;
+    height: auto;
+    max-width: 235px;
+  }
+  
+
+  
+
